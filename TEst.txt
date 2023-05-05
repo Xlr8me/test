@@ -1,2 +1,2 @@
 test v testu
-drugi test
+drugi
