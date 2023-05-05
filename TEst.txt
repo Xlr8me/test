@@ -4,7 +4,7 @@ metadata:
   name: website
   namespace: default
   labels:
-    app: websiterthrhfh
+    app: website
   annotations:
     source_url: "git@gitlab.com:kisphp/example.git"
 spec:
